@@ -1,0 +1,54 @@
+h4{
+	float: center;
+	color: white;
+	font-style: bold;
+	font-family: system-ui;
+	background-color: #F92424;
+	padding: 5px;
+	text-align: left;
+}
+h1{
+	color: white;
+	font-style: bold;
+	font-family: system-ui;
+	background-color: #F92424;
+	padding: 1px;
+	text-align: center;
+}
+
+footer{
+	font-family: system-ui;
+}
+ul {
+    list-style-type: none;
+    margin: 1;
+    padding: 5px;
+	background-color: #333;
+	font-family: system-ui;	
+}
+li {
+    display: inline;
+	color: white;
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+}
